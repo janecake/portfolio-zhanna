@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "Zhanna",
+  "description": "Portfolio, Zhanna Kresteva",
   "version": "0.0.13",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "",
   "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
